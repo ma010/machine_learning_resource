@@ -6,7 +6,7 @@ Let's use fingerprint verification as an example. There are two types of error:
 
 Which error should we penalize?
 
-![alt text](./error_measure.png)
+![alt text](figures/error_measure.png)
 
 In the following table, f is the true function (or fingerprint value in this case) with +1 being true
 and -1 being false. h is the hypothesis and its +1 and -1 inferred using h.
