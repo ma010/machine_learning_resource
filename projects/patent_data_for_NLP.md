@@ -1,0 +1,1 @@
+![alt text](figures/patent-erd-diagram.png)
