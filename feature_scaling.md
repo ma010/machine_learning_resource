@@ -11,5 +11,7 @@ PCA plot would look like this.
 ![alt text](figures/PCA_without_normalization.jpg)
 
 By normalizing each sample's values with l2 norm (scaling input vectors individually to unit norm), the PCA
-plot would look rather differently.
+plot would look rather differently. The following two plots are showing 3D and 2D PCA for the same dataset
+ with normalization.
 ![alt text](figures/PCA_with_l2_norm.jpg)
+![alt text](figures/PCA_2D_with_l2_norm.jpg)
